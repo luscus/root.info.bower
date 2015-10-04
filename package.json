@@ -1,0 +1,35 @@
+{
+  "name": "root.info.bower",
+  "license": "MIT",
+  "version": "0.1.0",
+  "homepage": "https://github.com/luscus/root.info.bower",
+  "author": "https://github.com/luscus/root.info.bower/graphs/contributors",
+  "description": "package.root plugin: retrieves information about bower in the root package",
+  "keywords": [
+    "package.roo",
+    "plugin",
+    "root",
+    "top",
+    "package",
+    "parent"
+  ],
+  "dependencies": {
+    "package.loader": "^0.3.0"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "gulp": "*",
+    "gulpfile.basics": "*",
+    "mocha": "*",
+    "mock-fs": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/luscus/root.info.bower.git"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "bugs": "https://github.com/luscus/root.info.bower/issues",
+  "main": "./lib/root.info.bower.js"
+}

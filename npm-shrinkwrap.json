@@ -1,0 +1,10 @@
+{
+  "name": "root.info.bower",
+  "version": "0.1.0",
+  "dependencies": {
+    "package.loader": {
+      "version": "0.3.0",
+      "from": "package.loader@>=0.3.0 <0.4.0"
+    }
+  }
+}
