@@ -14,7 +14,7 @@
     "parent"
   ],
   "dependencies": {
-    "package.loader": "^0.3.0"
+    "package.loader": "^0.4.1"
   },
   "devDependencies": {
     "chai": "*",
